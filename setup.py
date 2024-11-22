@@ -4,8 +4,8 @@ setup(
    name="pdf_data_extractor", 
    version="0.1.0",
    description="A Python package for extracting text and tables from PDF files.",
-   author="Fedorychko Andrii and Zelisko Maksym",
-   author_email="fedorychko78@gmail.com",
+   author="Fedorychko Andrii, Zelisko Maksym, and New Author",
+   author_email="fedorychko78@gmail.com, maksonchannel135@gmail.com",
    url="https://github.com/andriifed77/pdf-data-extractor",
    packages=find_packages(),
    install_requires=[
