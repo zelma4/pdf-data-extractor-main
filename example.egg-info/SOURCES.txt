@@ -1,0 +1,10 @@
+setup.py
+example.egg-info/PKG-INFO
+example.egg-info/SOURCES.txt
+example.egg-info/dependency_links.txt
+example.egg-info/requires.txt
+example.egg-info/top_level.txt
+pdf_data_extractor/__init__.py
+pdf_data_extractor/pdf_reader.py
+pdf_data_extractor/text_processor.py
+pdf_data_extractor/visualizer.py
